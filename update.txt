@@ -1,0 +1,4 @@
+version=23
+size=1215488
+url=https://raw.githubusercontent.com/duskywusky/RblxExternal-Releases/main/versions/23/app.exe
+sha256=7e50d34a002ff0e5ce1aa914645d4feef92450b22cafccdde2eff078416ea347
